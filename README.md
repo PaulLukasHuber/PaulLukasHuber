@@ -4,13 +4,20 @@ Hi, I'm Paul, 20 years old and I'm studying business informatics. I am intereste
 Maybe together 🤙
 
 ---
-### Stats
+### Current Goals 🥅
+
+- [X] ["Own Linktree"](https://paul-lukashuber.de/)
+- [ ] Learn Java
+- [ ] Minecraft Mod 👀
+
+---
+### Stats 📊
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 ---
-### Contact
+### Contact 📫
 
 * Discord -> PaulBuilds#6159 or [My Discord](https://discord.gg/7kq6UnB)
 * E-Mail -> paullukas.huber@gmail.com
