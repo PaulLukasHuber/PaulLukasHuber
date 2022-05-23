@@ -14,6 +14,9 @@ Maybe together 🤙
 ### Stats 📊
 
 <!--START_SECTION:waka-->
+
+![Code Time]
+
 <!--END_SECTION:waka-->
 
 ---
