@@ -15,8 +15,6 @@ Maybe together 🤙
 
 <!--START_SECTION:waka-->
 
-![Code Time]
-
 <!--END_SECTION:waka-->
 
 ---
