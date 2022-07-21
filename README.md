@@ -14,13 +14,13 @@ Maybe together 🤙
 ### Stats 📊
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%201%20min-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 43 Contributions in the Year 2022
  > 
-> 📦 191 Bytes Used in GitHub's Storage 
+> 📦 193 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -71,7 +71,7 @@ Java                     1 repo              ███████████�
 
 
 
- Last Updated on 21/07/2022 00:38:50 UTC
+ Last Updated on 21/07/2022 03:55:51 UTC
 <!--END_SECTION:waka-->
 
 ---
