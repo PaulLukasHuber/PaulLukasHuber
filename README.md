@@ -20,7 +20,7 @@ Maybe together 🤙
 
 > 🏆 43 Contributions in the Year 2022
  > 
-> 📦 308 Bytes Used in GitHub's Storage 
+> 📦 256 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -71,7 +71,7 @@ Java                     1 repo              ███████████�
 
 
 
- Last Updated on 19/08/2022 00:39:00 UTC
+ Last Updated on 19/08/2022 04:03:32 UTC
 <!--END_SECTION:waka-->
 
 ---
