@@ -14,13 +14,13 @@ Maybe together 🤙
 ### Stats 📊
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 43 Contributions in the Year 2022
  > 
-> 📦 325 Bytes Used in GitHub's Storage 
+> 📦 327 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -28,40 +28,6 @@ Maybe together 🤙
  > 
 > 🔑 0 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Daytime    19 commits     ███████████░░░░░░░░░░░░░░   46.34% 
-🌃 Evening    13 commits     ████████░░░░░░░░░░░░░░░░░   31.71% 
-🌙 Night      9 commits      █████░░░░░░░░░░░░░░░░░░░░   21.95%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       9 commits      █████░░░░░░░░░░░░░░░░░░░░   21.95% 
-Tuesday      3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.32% 
-Wednesday    6 commits      ███░░░░░░░░░░░░░░░░░░░░░░   14.63% 
-Thursday     17 commits     ██████████░░░░░░░░░░░░░░░   41.46% 
-Friday       4 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.76% 
-Saturday     1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.44% 
-Sunday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.44%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -71,7 +37,7 @@ Java                     1 repo              ███████████�
 
 
 
- Last Updated on 04/09/2022 06:09:08 UTC
+ Last Updated on 04/09/2022 09:07:52 UTC
 <!--END_SECTION:waka-->
 
 ---
