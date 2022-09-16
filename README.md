@@ -20,7 +20,7 @@ Maybe together 🤙
 
 > 🏆 51 Contributions in the Year 2022
  > 
-> 📦 399 Bytes Used in GitHub's Storage 
+> 📦 400 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,13 +55,10 @@ Sunday       1 commits      ░░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     3 hrs 17 mins       ████████████████████████░   95.95% 
-Git Config               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.88% 
-GitIgnore file           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.99% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.18%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Stuff                    3 hrs 26 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -74,7 +71,7 @@ Java                     1 repo              ███████████�
 
 
 
- Last Updated on 16/09/2022 00:43:15 UTC
+ Last Updated on 16/09/2022 04:46:10 UTC
 <!--END_SECTION:waka-->
 
 ---
