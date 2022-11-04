@@ -6,7 +6,7 @@ Maybe together 🤙
 ---
 ### Current Goals 🥅
 
-- [X] ["Own Linktree"](https://paul-lukashuber.de/)
+- [ ] "Own Linktree"
 - [ ] Learn Java
 - [ ] Minecraft Mod 👀
 
