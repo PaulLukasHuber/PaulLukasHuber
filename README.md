@@ -14,13 +14,13 @@ Maybe together 🤙
 ### Stats 📊
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%2036%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 67 Contributions in the Year 2022
  > 
-> 📦 624 Bytes Used in GitHub's Storage 
+> 📦 625 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,11 +55,11 @@ Sunday       1 commits      ░░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     1 hr 8 mins         █████████████████████████   100.0%
+Java                     1 hr 1 min          █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-HochschuleWeserbergland  1 hr 5 mins         ████████████████████████░   95.6% 
-Stuff                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.4%
+HochschuleWeserbergland  1 hr 1 min          █████████████████████████   99.92% 
+Stuff                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
 
 ```
 
@@ -72,7 +72,7 @@ Java                     2 repos             ███████████�
 
 
 
- Last Updated on 12/11/2022 00:40:47 UTC
+ Last Updated on 12/11/2022 03:47:09 UTC
 <!--END_SECTION:waka-->
 
 ---
