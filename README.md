@@ -20,7 +20,7 @@ Maybe together 🤙
 
 > 🏆 86 Contributions in the Year 2022
  > 
-> 📦 704 Bytes Used in GitHub's Storage 
+> 📦 705 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,11 +55,10 @@ Sunday       1 commits      ░░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     7 hrs 48 mins       █████████████████████████   100.0%
+Java                     6 hrs 27 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-HochschuleWeserbergland  7 hrs 37 mins       ████████████████████████░   97.65% 
-JavaStuff                11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.35%
+HochschuleWeserbergland  6 hrs 27 mins       █████████████████████████   100.0%
 
 ```
 
@@ -72,7 +71,7 @@ Java                     2 repos             ███████████�
 
 
 
- Last Updated on 26/11/2022 00:31:34 UTC
+ Last Updated on 26/11/2022 03:15:49 UTC
 <!--END_SECTION:waka-->
 
 ---
