@@ -14,7 +14,7 @@ Maybe together 🤙
 ### Stats 📊
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2012%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -53,10 +53,12 @@ Sunday                   2 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+R                        1 hr 1 min          ████████████████████████░   97.81 % 
+CSV/TSV                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Statistik1               1 hr 2 mins         █████████████████████████   99.34 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 ```
 
 **I Mostly Code in Java** 
@@ -68,7 +70,7 @@ Java                     2 repos             ███████████�
 
 
 
- Last Updated on 12/05/2023 00:29:46 UTC
+ Last Updated on 12/05/2023 03:05:16 UTC
 <!--END_SECTION:waka-->
 
 ---
