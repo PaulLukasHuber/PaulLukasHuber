@@ -14,7 +14,7 @@ Maybe together 🤙
 ### Stats 📊
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2046%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -70,7 +70,7 @@ Java                     2 repos             ███████████�
 
 
 
- Last Updated on 15/05/2023 21:03:08 UTC
+ Last Updated on 16/05/2023 00:30:13 UTC
 <!--END_SECTION:waka-->
 
 ---
