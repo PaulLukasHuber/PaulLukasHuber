@@ -7,8 +7,7 @@ Maybe together 🤙
 ### Current Goals 🥅
 
 - [ ] "Own Linktree"
-- [ ] Learn Java
-- [ ] Minecraft Mod 👀
+- [ ] Learn JavaScript
 
 ---
 ### Stats 📊
