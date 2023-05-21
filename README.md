@@ -13,7 +13,7 @@ Maybe together 🤙
 ### Stats 📊
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-67%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-67%20hrs%209%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -76,7 +76,7 @@ HTML                     1 repo              ████████░░░�
 
 
 
- Last Updated on 20/05/2023 21:02:55 UTC
+ Last Updated on 21/05/2023 00:33:31 UTC
 <!--END_SECTION:waka-->
 
 ---
