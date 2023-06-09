@@ -52,11 +52,10 @@ Sunday                   2 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     45 mins             █████████████████████████   99.52 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-LearnHTML                45 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -69,7 +68,7 @@ HTML                     1 repo              ████████░░░�
 
 
 
- Last Updated on 09/06/2023 00:37:50 UTC
+ Last Updated on 09/06/2023 03:14:31 UTC
 <!--END_SECTION:waka-->
 
 ---
