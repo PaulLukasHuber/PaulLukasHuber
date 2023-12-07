@@ -13,11 +13,9 @@ Maybe together 🤙
 ### Stats 📊
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-72%20hrs%2041%20mins-blue)
-
 **🐱 My GitHub Data** 
 
-> 📦 3.7 kB Used in GitHub's Storage 
+> 📦 3.8 kB Used in GitHub's Storage 
  > 
 > 🏆 19 Contributions in the Year 2023
  > 
@@ -69,7 +67,7 @@ PHP                      1 repo              █████░░░░░░�
 
 
 
- Last Updated on 06/12/2023 21:03:59 UTC
+ Last Updated on 07/12/2023 00:29:59 UTC
 <!--END_SECTION:waka-->
 
 ---
