@@ -14,11 +14,13 @@ Maybe together 🤙
 ### Stats 📊
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-75%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-75%20hrs%2042%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 4.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 21 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,10 +53,12 @@ Sunday                   2 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   20 mins             █████████████████████████   99.88 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Loan Calculator          17 mins             █████████████████████░░░░   85.39 % 
+Unknown Project          2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
 ```
 
 **I Mostly Code in Python** 
@@ -69,7 +73,7 @@ PHP                      1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 25/05/2024 00:30:16 UTC
+ Last Updated on 25/05/2024 03:09:01 UTC
 <!--END_SECTION:waka-->
 
 ---
