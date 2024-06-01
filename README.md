@@ -53,12 +53,10 @@ Sunday                   2 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   20 mins             █████████████████████████   99.88 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Loan Calculator          17 mins             █████████████████████░░░░   85.39 % 
-Unknown Project          2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -73,7 +71,7 @@ PHP                      1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 01/06/2024 00:34:20 UTC
+ Last Updated on 01/06/2024 03:09:00 UTC
 <!--END_SECTION:waka-->
 
 ---
