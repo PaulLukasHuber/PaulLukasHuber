@@ -14,7 +14,7 @@ Maybe together 🤙
 ### Stats 📊
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%2055%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -53,10 +53,15 @@ Sunday                   2 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Jupyter                  23 mins             ████████████████████████░   97.72 % 
+Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+wpf-ki                   15 mins             ████████████████░░░░░░░░░   63.84 % 
+Downloads                8 mins              █████████░░░░░░░░░░░░░░░░   34.58 % 
+LightEditProject         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 ```
 
 **I Mostly Code in Python** 
@@ -71,7 +76,7 @@ PHP                      1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 21/10/2024 00:41:04 UTC
+ Last Updated on 21/10/2024 03:18:49 UTC
 <!--END_SECTION:waka-->
 
 ---
