@@ -20,8 +20,6 @@ Maybe together 🤙
 
 > 📦 4.8 kB Used in GitHub's Storage 
  > 
-> 🏆 21 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 4 Public Repositories 
@@ -71,7 +69,7 @@ PHP                      1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 31/12/2024 21:07:03 UTC
+ Last Updated on 01/01/2025 00:43:51 UTC
 <!--END_SECTION:waka-->
 
 ---
