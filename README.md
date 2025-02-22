@@ -20,8 +20,6 @@ Maybe together 🤙
 
 > 📦 4.9 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 4 Public Repositories 
@@ -53,11 +51,10 @@ Sunday                   2 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Jupyter                  7 mins              ████████████████████████░   96.59 % 
-Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-wpf-ki                   7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -72,7 +69,7 @@ PHP                      1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 22/02/2025 00:38:51 UTC
+ Last Updated on 22/02/2025 03:10:57 UTC
 <!--END_SECTION:waka-->
 
 ---
