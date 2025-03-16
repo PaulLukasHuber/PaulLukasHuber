@@ -6,11 +6,13 @@ Hi, I'm Paul, 23 years old and I'm studying business informatics. I am intereste
 ### Stats 📊
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%201%20min-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 5.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 39 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -67,7 +69,7 @@ HTML                     1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 15/03/2025 21:08:08 UTC
+ Last Updated on 16/03/2025 00:45:24 UTC
 <!--END_SECTION:waka-->
 
 ---
