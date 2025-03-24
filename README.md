@@ -12,8 +12,6 @@ Hi, I'm Paul, 23 years old and I'm studying business informatics. I am intereste
 
 > 📦 7.5 kB Used in GitHub's Storage 
  > 
-> 🏆 92 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 6 Public Repositories 
@@ -70,7 +68,7 @@ PHP                      1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 24/03/2025 06:13:34 UTC
+ Last Updated on 24/03/2025 09:10:41 UTC
 <!--END_SECTION:waka-->
 
 ---
