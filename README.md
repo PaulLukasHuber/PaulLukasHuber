@@ -6,7 +6,7 @@ Hi, I'm Paul, 23 years old and I'm studying business informatics. I am intereste
 ### Stats 📊
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs%2040%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -45,10 +45,14 @@ Sunday                   83 commits          █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 25 mins             █████████░░░░░░░░░░░░░░░░   34.76 % 
+CSS                      17 mins             ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
+YAML                     14 mins             █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
+HTML                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+Python                   7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+rdr2rp-business-license  1 hr 14 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -64,7 +68,7 @@ PHP                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 31/05/2025 00:44:49 UTC
+ Last Updated on 31/05/2025 03:35:04 UTC
 <!--END_SECTION:waka-->
 
 ---
