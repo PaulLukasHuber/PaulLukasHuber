@@ -6,7 +6,7 @@ Hi, I'm Paul, 23 years old and I'm studying business informatics. I am intereste
 ### Stats 📊
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-126%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-127%20hrs%2030%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -45,10 +45,15 @@ Sunday                   121 commits         ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               54 mins             ███████████████████████░░   90.65 % 
+TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+grade-calculator         56 mins             ███████████████████████░░   92.98 % 
+bachelor_grade           4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
 ```
 
 **I Mostly Code in Python** 
@@ -64,7 +69,7 @@ PHP                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 30/06/2025 00:52:43 UTC
+ Last Updated on 30/06/2025 03:48:58 UTC
 <!--END_SECTION:waka-->
 
 ---
