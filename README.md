@@ -6,6 +6,8 @@ Hi, I'm Paul, 23 years old and I'm studying business informatics. I am intereste
 ### Stats 📊
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-127%20hrs%2030%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 8.6 kB Used in GitHub's Storage 
@@ -18,6 +20,37 @@ Hi, I'm Paul, 23 years old and I'm studying business informatics. I am intereste
  > 
 > 🔑 4 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                76 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+🌆 Daytime                203 commits         ██████████░░░░░░░░░░░░░░░   38.45 % 
+🌃 Evening                236 commits         ███████████░░░░░░░░░░░░░░   44.70 % 
+🌙 Night                  13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   93 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+Tuesday                  24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Wednesday                17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+Thursday                 66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Friday                   117 commits         ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
+Saturday                 90 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+Sunday                   121 commits         ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -31,7 +64,7 @@ PHP                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2025 00:40:56 UTC
+ Last Updated on 20/09/2025 03:20:02 UTC
 <!--END_SECTION:waka-->
 
 ---
