@@ -1,74 +1,80 @@
-## Welcome!👋
+<div align="center">
 
-Hi, I'm Paul, 23 years old and I'm studying business informatics. I am interested in many topics and try to learn a whole variety of things. In the next few years I try to bring my skills to a new level.
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=4493F8&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Paul+%F0%9F%91%8B;Test+System+Engineer;Citrix+Specialist;Building+ideas+on+the+side" alt="Typing SVG" />
 
----
-### Stats 📊
+</div>
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-128%20hrs%2053%20mins-blue?style=flat)
+<br>
 
-**🐱 My GitHub Data** 
+I'm <!--AGE_START-->24<!--AGE_END--> years old, based in Hannover, Germany.  
+I hold a **B.Sc. in Business Informatics** (Wirtschaftsinformatik) with a focus on System Integration.
 
-> 📦 9.1 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 8 Public Repositories 
- > 
-> 🔑 4 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                76 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-🌆 Daytime                203 commits         ██████████░░░░░░░░░░░░░░░   38.45 % 
-🌃 Evening                236 commits         ███████████░░░░░░░░░░░░░░   44.70 % 
-🌙 Night                  13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   93 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
-Tuesday                  24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Wednesday                17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-Thursday                 66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Friday                   117 commits         ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
-Saturday                 90 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-Sunday                   121 commits         ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   3 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
-JavaScript               2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-HTML                     2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-HCL                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-PHP                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-```
-
-
-
-
- Last Updated on 19/03/2026 18:39:18 UTC
-<!--END_SECTION:waka-->
+By day I work as a **Test System Engineer**, spending most of my time in the Citrix ecosystem — designing, deploying, and validating virtual workspace environments. I'm not a full-time developer, but when I have an idea worth building, this is where it ends up.
 
 ---
-### Contact 📫
 
-* Discord -> PaulBuilds#6159 or [My Discord](https://discord.gg/7kq6UnB)
-* E-Mail -> paullukas.huber@gmail.com
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Citrix%20CVAD-452170?style=for-the-badge&logo=citrix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active%20Directory-003B6F?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Group%20Policy-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
+
+When I build side projects, I usually reach for:
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
+
+---
+
+### 📂 Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🔳 QR-Code Generator</h3>
+      <p align="center">
+        <a href="https://github.com/PaulLukasHuber/qr-code-generator">
+          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <a href="https://paullukashuber.github.io/qr-code-generator/">
+          <img src="https://img.shields.io/badge/Live%20Demo-4493F8?style=for-the-badge&logo=googlechrome&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">Custom QR codes with color schemes, logo integration, and multi-format export. Built with React, Tailwind & Vite.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">☁️ Moodle on Azure</h3>
+      <p align="center">
+        <a href="https://github.com/PaulLukasHuber/moodle-azure-terraform">
+          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">Infrastructure as Code setup for deploying Moodle LMS on Azure using Terraform. University project for Cloud Computing.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📫 Contact
+
+<p>
+  <a href="https://discord.gg/7kq6UnB">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="mailto:paullukas.huber@gmail.com">
+    <img src="https://img.shields.io/badge/E--Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
