@@ -67,8 +67,12 @@ By day I work as a **Test System Engineer**, spending most of my time in the Cit
 
 <br>
 
+---
+
+### 📈 Activity
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PaulLukasHuber&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=4493F8&text_color=c9d1d9&langs_count=6" height="170" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PaulLukasHuber&bg_color=00000000&color=c9d1d9&line=4493F8&point=4493F8&area=true&area_color=4493F8&hide_border=true" />
 </div>
 
 ---
