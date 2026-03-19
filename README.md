@@ -68,6 +68,34 @@ When I build side projects, I usually reach for:
 
 ---
 
+### 📊 Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PaulLukasHuber&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=4493F8&icon_color=4493F8&text_color=c9d1d9" height="170" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PaulLukasHuber&theme=github-dark-blue&hide_border=true&background=00000000&ring=4493F8&fire=4493F8&currStreakLabel=4493F8" height="170" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PaulLukasHuber&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=4493F8&text_color=c9d1d9&langs_count=6" height="170" />
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PaulLukasHuber/PaulLukasHuber/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PaulLukasHuber/PaulLukasHuber/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/PaulLukasHuber/PaulLukasHuber/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
 ### 📫 Contact
 
 <p>
@@ -79,3 +107,5 @@ When I build side projects, I usually reach for:
     <img src="https://img.shields.io/badge/E--Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+
