@@ -16,12 +16,12 @@ By day I work as a **Test System Engineer**, spending most of my time in the Cit
 ### 🛠️ Tech Stack
 
 <p>
-<img src="https://img.shields.io/badge/Citrix-452170?style=for-the-badge&logo=citrix&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-<img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Active%20Directory-003B6F?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Citrix-452170?style=for-the-badge&logo=citrix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active%20Directory-003B6F?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
 When I build side projects, I usually reach for:
@@ -47,6 +47,7 @@ When I build side projects, I usually reach for:
         <a href="https://github.com/PaulLukasHuber/qr-code-generator">
           <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
+        &nbsp;&nbsp;
         <a href="https://paullukashuber.github.io/qr-code-generator/">
           <img src="https://img.shields.io/badge/Live%20Demo-4493F8?style=for-the-badge&logo=googlechrome&logoColor=white" />
         </a>
@@ -73,6 +74,7 @@ When I build side projects, I usually reach for:
   <a href="https://discord.gg/7kq6UnB">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:paullukas.huber@gmail.com">
     <img src="https://img.shields.io/badge/E--Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
