@@ -1,0 +1,50 @@
+name: Update Age
+
+on:
+  schedule:
+    # Runs daily at midnight UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-age:
+    name: Update Age in README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Calculate and update age
+        run: |
+          BIRTH_DATE="2001-10-05"
+          TODAY=$(date -u +%Y-%m-%d)
+
+          BIRTH_YEAR=$(echo "$BIRTH_DATE" | cut -d'-' -f1)
+          BIRTH_MONTH=$(echo "$BIRTH_DATE" | cut -d'-' -f2)
+          BIRTH_DAY=$(echo "$BIRTH_DATE" | cut -d'-' -f3)
+
+          CURRENT_YEAR=$(echo "$TODAY" | cut -d'-' -f1)
+          CURRENT_MONTH=$(echo "$TODAY" | cut -d'-' -f2)
+          CURRENT_DAY=$(echo "$TODAY" | cut -d'-' -f3)
+
+          AGE=$((CURRENT_YEAR - BIRTH_YEAR))
+
+          # If birthday hasn't occurred yet this year, subtract 1
+          if [ "$CURRENT_MONTH" -lt "$BIRTH_MONTH" ] || \
+             { [ "$CURRENT_MONTH" -eq "$BIRTH_MONTH" ] && [ "$CURRENT_DAY" -lt "$BIRTH_DAY" ]; }; then
+            AGE=$((AGE - 1))
+          fi
+
+          echo "Calculated age: $AGE"
+
+          # Replace age between markers in README
+          sed -i "s/<!--AGE_START-->.*<!--AGE_END-->/<!--AGE_START-->${AGE}<!--AGE_END-->/" README.md
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git diff --quiet README.md || {
+            git add README.md
+            git commit -m "Updated age in README"
+            git push
+          }
