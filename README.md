@@ -22,7 +22,6 @@ By day I work as a **Test System Engineer**, spending most of my time in the Cit
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Active%20Directory-003B6F?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Group%20Policy-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
 When I build side projects, I usually reach for:
